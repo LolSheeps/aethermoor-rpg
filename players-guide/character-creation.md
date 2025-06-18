@@ -1,0 +1,3 @@
+# Character Creation
+
+How to make your character for Aethermoor...
