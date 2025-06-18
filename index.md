@@ -5,40 +5,47 @@ title: Home
 
 # Aethermoor: Industrial Fantasy RPG
 
-Welcome to a world where magic meets machinery, where ancient forests clash with factory smoke, and where your choices determine the fate of two civilizations.
+*Where the industrial revolution meets the dying magic of an ancient land*
 
-## Quick Navigation
+Welcome to Aethermoor—a contested continent where six great factions race to strip-mine crystallized magic while the native Fey fight desperately to save their home. You are colonists, revolutionaries, and fortune-seekers caught between progress and preservation.
 
-### 📖 [Player's Guide](players-guide/index.md)
-Everything you need to create a character and start playing
+## 🎲 [Start Playing](players-guide/index.md)
+Everything you need to create a character and begin your adventure
 
-### ⚙️ [Game Rules](rules/index.md)
-How to play using the Archmage Engine
+## ⚙️ [Learn the Rules](rules/index.md)  
+Simple d20 system powered by the Archmage Engine
 
-### 🗺️ [Setting Guide](setting/index.md)
-Explore the contested continent of Aethermoor
+## 🗺️ [Explore the World](setting/index.md)
+Discover the regions, factions, and secrets of Aethermoor
 
-### 🎭 [Game Master's Guide](gm-guide/index.md)
-Run adventures in the industrial fantasy world
-
-### 📥 [Downloads](downloads.md)
-Character sheets, quick references, and more
+## 🎭 [Run the Game](gm-guide/index.md)
+Resources for Game Masters
 
 ---
 
-## What is Aethermoor?
+## What Makes Aethermoor Unique?
 
-Four years ago, Captain Elara Ironside discovered a new continent across the Mistral Ocean—and with it, Aether, a miraculous substance that powers both magic and machinery. Now six great factions race to claim this frontier, while the native Fey fight desperately to save their dying land.
+### **15 Original Professions**
+From steam-powered Ironclads to reality-warping Entropists, each profession offers unique gameplay
 
-You are among the latest wave of colonists, revolutionaries, and fortune-seekers to reach these shores. Will you strip-mine the land for profit? Fight to preserve it? Or find a path between progress and preservation?
+### **The Faction System**
+Six major powers vie for control—your relationships with them shape the story
 
-## Start Your Adventure
+### **Industrial Fantasy Setting**
+Magic meets machinery in a world where progress has a price
 
-1. **[Create Your Character](players-guide/character-creation.md)** - Choose from 15 unique professions
-2. **[Learn the Rules](rules/basic-rules.md)** - Simple d20 system that's easy to learn
-3. **[Choose Your Faction](setting/factions.md)** - Align with one of six major powers
-4. **[Explore Aethermoor](setting/regions.md)** - From the Saltwhisper Coast to the Wild Beyond
+### **Meaningful Choices**
+Will you exploit the land for profit or fight to preserve it? There's no right answer.
 
 ---
 
-*Aethermoor uses the Archmage Engine, released under the Open Game License.*
+## Quick Start
+
+1. **[Create a Character](players-guide/character-creation.md)** in minutes
+2. **[Choose Your Profession](players-guide/professions/index.md)** from 15 unique options
+3. **[Pick Your Faction](setting/factions.md)** allegiances
+4. **[Start Your Adventure](gm-guide/adventures.md)** in the contested lands
+
+---
+
+*Based on the Archmage Engine SRD, released under the Open Game License*
