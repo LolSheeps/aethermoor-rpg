@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Setting Guide
@@ -11,16 +10,16 @@ Welcome to the contested continent where industrial ambition meets ancient magic
 ## Setting Overview
 
 ### [The History](history.md)
-How Aethermoor was discovered and the rush that followed
+From discovery to crisis in four blood-soaked years
 
 ### [The Six Factions](factions.md)  
 Major powers shaping the continent's destiny
 
 ### [Regions of Aethermoor](regions.md)
-From the Saltwhisper Coast to the Wild Beyond
+Ten unique regions from industrial ports to reality breaks
 
 ### [Notable NPCs](npcs.md)
-Heroes, villains, and those in between
+The heroes, villains, and powers that shape the world
 
 ## Quick Setting Facts
 
