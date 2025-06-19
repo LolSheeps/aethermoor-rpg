@@ -1,8 +1,3 @@
----
-layout: default
-title: Game Master's Guide
----
-
 # Game Master's Guide to Aethermoor
 
 *Welcome to the conductor's cabin of the great engine that is Aethermoor. As Game Master, you hold the pressure valves of drama, the gears of narrative, and the furnace of imagination. This guide provides all the tools you need to bring the industrial age to life at your table—from running your first session to orchestrating epic campaigns that question the very nature of progress.*
