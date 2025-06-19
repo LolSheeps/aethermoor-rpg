@@ -25,11 +25,39 @@
     body {
       background: var(--background);
       color: var(--text-color);
+      /* Industrial texture overlay */
+      background-image: 
+        repeating-linear-gradient(
+          45deg,
+          transparent,
+          transparent 10px,
+          rgba(255,255,255,.01) 10px,
+          rgba(255,255,255,.01) 20px
+        );
+    }
+    
+    /* Gear animation for loading */
+    #app {
+      text-align: center;
+      padding-top: 200px;
+      color: #B87333;
+      font-size: 24px;
+      font-family: 'Georgia', serif;
+      text-shadow: 2px 2px 4px rgba(0,0,0,0.8);
     }
     
     .sidebar {
       background-color: var(--sidebar-background);
       border-right: 1px solid var(--border-color);
+      /* Subtle industrial pattern */
+      background-image: 
+        repeating-linear-gradient(
+          90deg,
+          transparent,
+          transparent 20px,
+          rgba(184, 115, 51, 0.03) 20px,
+          rgba(184, 115, 51, 0.03) 40px
+        );
     }
     
     .sidebar li {
@@ -38,10 +66,12 @@
     
     .sidebar a {
       color: var(--sidebar-text);
+      transition: all 0.3s ease;
     }
     
     .sidebar a:hover {
       color: var(--theme-color);
+      padding-left: 5px;
     }
     
     /* Headers with industrial theme */
@@ -50,11 +80,20 @@
       border-bottom: 2px solid #4A5568;
       padding-bottom: 0.5em;
       font-family: 'Georgia', serif;
+      text-shadow: 1px 1px 2px rgba(0,0,0,0.5);
+    }
+    
+    /* Add gears to main headers */
+    .markdown-section h1:before {
+      content: "⚙ ";
+      color: #4A5568;
+      font-size: 0.9em;
     }
     
     .markdown-section h2 {
       color: #6B83DB;
       margin-top: 2em;
+      font-family: 'Georgia', serif;
     }
     
     .markdown-section h3 {
@@ -65,17 +104,20 @@
     .markdown-section a {
       color: var(--link-color);
       text-decoration: none;
+      transition: all 0.3s ease;
     }
     
     .markdown-section a:hover {
       color: var(--link-hover);
       text-decoration: underline;
+      text-shadow: 0 0 10px rgba(184, 115, 51, 0.5);
     }
     
     /* Code blocks */
     .markdown-section pre {
       background-color: var(--code-background);
       border: 1px solid var(--border-color);
+      box-shadow: inset 0 0 10px rgba(0,0,0,0.5);
     }
     
     .markdown-section code {
@@ -83,12 +125,14 @@
       color: #B87333;
       padding: 2px 4px;
       border-radius: 3px;
+      font-family: 'Courier New', monospace;
     }
     
     /* Tables with dark theme */
     .markdown-section table {
       background: var(--code-background);
       border: 1px solid var(--border-color);
+      box-shadow: 0 4px 6px rgba(0,0,0,0.3);
     }
     
     .markdown-section tr {
@@ -99,17 +143,38 @@
       background: #2a2a2a;
       color: var(--theme-color);
       font-weight: bold;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      font-size: 0.9em;
     }
     
     .markdown-section tr:nth-child(even) {
       background-color: #252525;
     }
     
-    /* Blockquotes */
+    .markdown-section tr:hover {
+      background-color: #2a2a2a;
+      transition: background-color 0.3s ease;
+    }
+    
+    /* Blockquotes with industrial style */
     .markdown-section blockquote {
       border-left: 4px solid var(--theme-color);
       background: var(--code-background);
       color: var(--text-color);
+      font-style: italic;
+      box-shadow: inset 0 0 20px rgba(184, 115, 51, 0.1);
+      position: relative;
+    }
+    
+    .markdown-section blockquote:before {
+      content: "❝";
+      font-size: 3em;
+      position: absolute;
+      left: 10px;
+      top: -10px;
+      color: var(--theme-color);
+      opacity: 0.3;
     }
     
     /* Search box */
@@ -117,20 +182,55 @@
       background: var(--code-background);
       border: 1px solid var(--border-color);
       color: var(--text-color);
+      box-shadow: inset 0 2px 4px rgba(0,0,0,0.5);
+    }
+    
+    .search input:focus {
+      border-color: var(--theme-color);
+      box-shadow: 0 0 10px rgba(184, 115, 51, 0.3);
     }
     
     /* Cover page dark theme */
     section.cover {
       background: #0f0f0f !important;
+      /* Industrial pattern overlay */
+      background-image: 
+        radial-gradient(circle at 20% 50%, rgba(184, 115, 51, 0.1) 0%, transparent 50%),
+        radial-gradient(circle at 80% 80%, rgba(107, 131, 219, 0.1) 0%, transparent 50%),
+        repeating-linear-gradient(
+          0deg,
+          transparent,
+          transparent 50px,
+          rgba(255,255,255,.02) 50px,
+          rgba(255,255,255,.02) 100px
+        );
     }
     
     .cover h1 {
       color: var(--theme-color);
-      text-shadow: 2px 2px 4px rgba(0,0,0,0.8);
+      text-shadow: 
+        2px 2px 4px rgba(0,0,0,0.8),
+        0 0 20px rgba(184, 115, 51, 0.5);
+      font-family: 'Georgia', serif;
+      letter-spacing: 2px;
     }
     
     .cover blockquote {
       color: var(--text-color);
+      font-style: italic;
+      text-shadow: 1px 1px 2px rgba(0,0,0,0.8);
+    }
+    
+    .cover-main > p:last-child a {
+      border: 2px solid var(--theme-color);
+      background: rgba(184, 115, 51, 0.1);
+      transition: all 0.3s ease;
+    }
+    
+    .cover-main > p:last-child a:hover {
+      background: var(--theme-color);
+      color: #0f0f0f;
+      box-shadow: 0 0 20px rgba(184, 115, 51, 0.5);
     }
     
     /* Navigation bar */
@@ -140,6 +240,7 @@
     
     .app-nav a {
       color: var(--text-color);
+      transition: all 0.3s ease;
     }
     
     .app-nav a:hover {
@@ -153,20 +254,51 @@
     
     ::-webkit-scrollbar-track {
       background: var(--sidebar-background);
+      border: 1px solid var(--border-color);
     }
     
     ::-webkit-scrollbar-thumb {
       background: #4A5568;
       border-radius: 5px;
+      border: 1px solid var(--border-color);
     }
     
     ::-webkit-scrollbar-thumb:hover {
       background: var(--theme-color);
+      box-shadow: 0 0 10px rgba(184, 115, 51, 0.5);
+    }
+    
+    /* Lists with custom bullets */
+    .markdown-section ul li {
+      list-style: none;
+      position: relative;
+      padding-left: 20px;
+    }
+    
+    .markdown-section ul li:before {
+      content: "▸";
+      position: absolute;
+      left: 0;
+      color: var(--theme-color);
+    }
+    
+    /* Strong text glow effect */
+    .markdown-section strong {
+      color: #f0f0f0;
+      text-shadow: 0 0 5px rgba(184, 115, 51, 0.3);
+    }
+    
+    /* HR with industrial style */
+    .markdown-section hr {
+      border: none;
+      height: 2px;
+      background: linear-gradient(to right, transparent, var(--theme-color), transparent);
+      margin: 2em 0;
     }
   </style>
 </head>
 <body>
-  <div id="app">Loading Aethermoor...</div>
+  <div id="app">⚙ Loading Aethermoor...</div>
   <script>
     window.$docsify = {
       name: 'Aethermoor RPG',
@@ -181,7 +313,7 @@
       search: {
         maxAge: 86400000,
         paths: 'auto',
-        placeholder: 'Search rules, professions, locations...',
+        placeholder: '🔍 Search rules, professions, locations...',
         noData: 'No Results Found',
         depth: 3
       },
