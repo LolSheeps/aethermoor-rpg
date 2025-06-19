@@ -1,8 +1,3 @@
----
-layout: default
-title: Magic Items - Industrial Wonders
----
-
 # Magic Items of Aethermoor
 
 *In an age where assembly lines produce enchantments and Aether powers impossible devices, magic items have evolved beyond ancient swords and wizard staves. Today's treasures blend arcane tradition with industrial innovation—a pistol that shoots through dimensions, armor powered by steam and souls, a pocket watch that runs backward through time.*
