@@ -1,8 +1,3 @@
----
-layout: default
-title: Storm Prophet - Paradigm of Chaos and Nature
----
-
 # Storm Prophet
 
 *"I don't predict the weather—I am the weather"*
