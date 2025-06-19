@@ -1,8 +1,3 @@
----
-layout: default
-title: The 15 Professions
----
-
 # The 15 Professions of Aethermoor
 
 Choose your path in the industrial frontier. Each profession offers unique abilities and playstyles.
