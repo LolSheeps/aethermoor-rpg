@@ -1,8 +1,3 @@
----
-layout: default
-title: Riot King - Paradigm of Fame and Fury
----
-
 # Riot King
 
 *"The crowd screams my name, and reality bends to make them right"*
