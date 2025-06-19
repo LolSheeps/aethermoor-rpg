@@ -1,8 +1,3 @@
----
-layout: default
-title: Forge Saint - Paradigm of Faith and Innovation
----
-
 # Forge Saint
 
 *"Through hammer and prayer, we reshape the world"*
