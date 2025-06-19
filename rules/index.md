@@ -1,8 +1,3 @@
----
-layout: default
-title: Game Rules
----
-
 # Game Rules
 
 Learn to play Aethermoor using the Archmage Engine—a fast, flexible d20 system designed for cinematic action.
