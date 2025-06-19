@@ -1,8 +1,3 @@
----
-layout: default
-title: Primordial Sovereign - Paradigm of Elements and Authority
----
-
 # Primordial Sovereign
 
 *"The elements don't serve me. They recognize their rightful ruler"*
