@@ -1,8 +1,3 @@
----
-layout: default
-title: Campaign Ideas - Full Campaigns for the Industrial Age
----
-
 # Campaign Ideas for Aethermoor
 
 *Every great campaign needs a driving force—a central tension that propels heroes from unknown adventurers to legendary figures. In Aethermoor, that tension often comes from the fundamental question: What price are we willing to pay for progress? Here are full campaign frameworks that explore different answers to that question.*
