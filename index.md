@@ -1,8 +1,3 @@
----
-layout: default
-title: Home
----
-
 # Aethermoor: Industrial Fantasy RPG
 
 *Where the industrial revolution meets the dying magic of an ancient land*
