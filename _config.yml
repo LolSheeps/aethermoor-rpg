@@ -2,7 +2,7 @@
 title: "Aethermoor: Industrial Fantasy RPG"
 description: "A tabletop RPG where magic meets the industrial revolution"
 baseurl: "/aethermoor-rpg" # Replace with your repo name
-url: "https://[YOUR-USERNAME].github.io" # Replace with your username
+url: "https://lolsheeps.github.io" # Replace with your username
 
 # Build settings
 theme: jekyll-theme-cayman
