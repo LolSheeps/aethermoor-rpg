@@ -1,8 +1,3 @@
----
-layout: default
-title: Factotum - Faction Devotee
----
-
 # Factotum
 
 *In the great game of Aethermoor's colonization, the Factotums are the ultimate true believers. They don't just work for their factions—they embody them, channel them, become living extensions of their organization's will. Through devotion, they gain power. Through service, they find purpose. Through faith in their cause, they work miracles.*
