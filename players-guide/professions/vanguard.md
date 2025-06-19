@@ -1,8 +1,3 @@
----
-layout: default
-title: Vanguard - Elite Shock Trooper
----
-
 # Vanguard
 
 *First in, last out, always forward. Vanguards are the tip of the spear, the edge of the blade, the point where civilization meets its enemies. They don't hold lines---they shatter them. They don't defend positions---they take them.*
