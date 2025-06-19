@@ -1,8 +1,3 @@
----
-layout: default
-title: Equipment - Weapons, Armor, and Gear
----
-
 # Equipment
 
 *The industrial age has revolutionized warfare and daily life. While a sword remains deadly in skilled hands, the crack of rifles and roar of explosives now echo across Aethermoor's battlefields. Progress marches forward, one invention at a time.*
