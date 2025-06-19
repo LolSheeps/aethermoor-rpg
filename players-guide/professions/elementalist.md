@@ -1,8 +1,3 @@
----
-layout: default
-title: Elementalist - Master of Primal Forces
----
-
 # Elementalist
 
 *Fire burns. Water flows. Earth endures. Air dances. While others harness Aether through machines and careful study, Elementalists grab the fundamental forces of creation by the throat and command them to obey. They are living conduits for primal power, walking disasters waiting to happen.*
