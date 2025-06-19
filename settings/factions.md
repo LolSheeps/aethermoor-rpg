@@ -1,8 +1,3 @@
----
-layout: default
-title: The Six Factions
----
-
 # The Six Factions
 
 In Aethermoor, your faction relationships define your opportunities and obstacles. Each faction represents a different vision for the continent's future.
