@@ -1,8 +1,3 @@
----
-layout: default
-title: Regions of Aethermoor
----
-
 # Regions of Aethermoor
 
 From industrial ports to untouched wilderness, each region tells part of Aethermoor's story—what it was, what it's becoming, and what it might yet be.
