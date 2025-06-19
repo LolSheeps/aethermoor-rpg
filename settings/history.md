@@ -1,8 +1,3 @@
----
-layout: default
-title: The History of Aethermoor
----
-
 # The Chronicle of Aethermoor
 
 ## The Discovery
