@@ -1,8 +1,3 @@
----
-layout: default
-title: Factions in Play - A Storytelling Guide
----
-
 # Factions in Play: A Storytelling Guide
 
 *The six factions of Aethermoor aren't just background lore—they're the engine that drives conflict, creates opportunities, and gives players meaningful choices. This guide will help you bring these organizations to life at your table, making them feel like living entities with goals, resources, and complicated relationships.*
