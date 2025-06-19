@@ -1,8 +1,3 @@
----
-layout: default
-title: Marshal - Battlefield Commander
----
-
 # Marshal
 
 *War has evolved. In the age of rifles and artillery, of telegraph lines and rail transport, victory belongs not to the strongest warrior but the smartest commander. Marshals are students of modern warfare, combining tactical genius with inspiring leadership. They see battles as chess matches and soldiers as pieces to be positioned for maximum effect.*
