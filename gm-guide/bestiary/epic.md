@@ -1,8 +1,3 @@
----
-layout: default
-title: Bestiary - Epic Tier (Levels 8-13)
----
-
 # Bestiary: Epic Tier
 
 *At the pinnacle of power, heroes face the ultimate expressions of Aethermoor's industrial transformation. These creatures embody the fundamental conflicts of the age—the titan-forged Masterwork that questions its purpose, the Aether Dragon born from pure magical pollution, and most terrifying of all, the Sleeper's Herald, first sign of what lies beneath.*
