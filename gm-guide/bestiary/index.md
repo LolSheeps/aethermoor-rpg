@@ -1,8 +1,3 @@
----
-layout: default
-title: Bestiary - Creatures of the Industrial Age
----
-
 # Bestiary of Aethermoor
 
 *The industrial revolution hasn't just changed society—it's transformed the very nature of monstrosity. In Aethermoor, creatures adapt or perish. Goblins learn to work machinery. Dragons gorge on raw Aether. The dead rise with gears for joints and steam for breath. Even the land itself writhes under the weight of progress.*
