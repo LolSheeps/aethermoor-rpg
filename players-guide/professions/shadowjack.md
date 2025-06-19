@@ -1,8 +1,3 @@
----
-layout: default
-title: Shadowjack - Industrial Spy
----
-
 # Shadowjack
 
 *In the industrial age, information is ammunition and secrets are currency. The Shadowjack trades in both. Part spy, part assassin, part saboteur, they are the unseen hand that tilts the scales of power. In a world of steam and steel, they are smoke and shadow.*
