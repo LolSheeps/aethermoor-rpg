@@ -1,8 +1,3 @@
----
-layout: default
-title: Artificer - Magical Inventor
----
-
 # Artificer
 
 *Magic is just science we don't understand yet. Artificers live in the space between, where arcane theory meets practical engineering. They are the architects of the industrial revolution, the creators of impossible machines, the ones who looked at magic and asked "but can we mass-produce it?"*
