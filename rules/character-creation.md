@@ -1,8 +1,3 @@
----
-layout: default
-title: Character Creation
----
-
 # Character Creation
 
 Creating a character in Aethermoor takes about 15-30 minutes. Follow these steps to bring your colonist, revolutionary, or fortune-seeker to life.
