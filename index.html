@@ -5,38 +5,163 @@
   <title>Aethermoor: Industrial Fantasy RPG</title>
   <meta name="description" content="Where magic meets the industrial revolution">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <!-- Dark theme CSS -->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.css">
   <style>
-    /* Custom colors for your theme */
+    /* Custom dark industrial theme */
     :root {
-      --theme-color: #B87333; /* Copper color */
-      --text-color: #2c3e50;
-      --sidebar-nav-link-before-content: '⚙️';
+      --theme-color: #B87333; /* Copper */
+      --text-color: #e0e0e0;
+      --background: #1a1a1a;
+      --sidebar-background: #0f0f0f;
+      --sidebar-text: #c0c0c0;
+      --code-background: #2a2a2a;
+      --border-color: #333;
+      --link-color: #6B83DB; /* Aether blue */
+      --link-hover: #B87333; /* Copper on hover */
     }
     
-    /* Make it look more RPG-like */
+    /* Dark mode overrides */
+    body {
+      background: var(--background);
+      color: var(--text-color);
+    }
+    
     .sidebar {
-      background-color: #f5f5f5;
+      background-color: var(--sidebar-background);
+      border-right: 1px solid var(--border-color);
     }
     
+    .sidebar li {
+      color: var(--sidebar-text);
+    }
+    
+    .sidebar a {
+      color: var(--sidebar-text);
+    }
+    
+    .sidebar a:hover {
+      color: var(--theme-color);
+    }
+    
+    /* Headers with industrial theme */
     .markdown-section h1 {
-      color: #B87333;
-      border-bottom: 2px solid #B87333;
-      padding-bottom: 0.3em;
+      color: var(--theme-color);
+      border-bottom: 2px solid #4A5568;
+      padding-bottom: 0.5em;
+      font-family: 'Georgia', serif;
     }
     
     .markdown-section h2 {
-      color: #4A5568;
+      color: #6B83DB;
+      margin-top: 2em;
     }
     
-    /* Style tables nicely */
+    .markdown-section h3 {
+      color: #e0e0e0;
+    }
+    
+    /* Links */
+    .markdown-section a {
+      color: var(--link-color);
+      text-decoration: none;
+    }
+    
+    .markdown-section a:hover {
+      color: var(--link-hover);
+      text-decoration: underline;
+    }
+    
+    /* Code blocks */
+    .markdown-section pre {
+      background-color: var(--code-background);
+      border: 1px solid var(--border-color);
+    }
+    
+    .markdown-section code {
+      background-color: var(--code-background);
+      color: #B87333;
+      padding: 2px 4px;
+      border-radius: 3px;
+    }
+    
+    /* Tables with dark theme */
     .markdown-section table {
-      display: table;
-      width: 100%;
+      background: var(--code-background);
+      border: 1px solid var(--border-color);
     }
     
-    .markdown-section table tr:nth-child(even) {
-      background-color: #f5f5f5;
+    .markdown-section tr {
+      border-bottom: 1px solid var(--border-color);
+    }
+    
+    .markdown-section th {
+      background: #2a2a2a;
+      color: var(--theme-color);
+      font-weight: bold;
+    }
+    
+    .markdown-section tr:nth-child(even) {
+      background-color: #252525;
+    }
+    
+    /* Blockquotes */
+    .markdown-section blockquote {
+      border-left: 4px solid var(--theme-color);
+      background: var(--code-background);
+      color: var(--text-color);
+    }
+    
+    /* Search box */
+    .search input {
+      background: var(--code-background);
+      border: 1px solid var(--border-color);
+      color: var(--text-color);
+    }
+    
+    /* Cover page dark theme */
+    section.cover {
+      background: #0f0f0f !important;
+    }
+    
+    .cover h1 {
+      color: var(--theme-color);
+      text-shadow: 2px 2px 4px rgba(0,0,0,0.8);
+    }
+    
+    .cover blockquote {
+      color: var(--text-color);
+    }
+    
+    /* Navigation bar */
+    .app-nav {
+      color: var(--text-color);
+    }
+    
+    .app-nav a {
+      color: var(--text-color);
+    }
+    
+    .app-nav a:hover {
+      color: var(--theme-color);
+    }
+    
+    /* Scrollbar */
+    ::-webkit-scrollbar {
+      width: 10px;
+    }
+    
+    ::-webkit-scrollbar-track {
+      background: var(--sidebar-background);
+    }
+    
+    ::-webkit-scrollbar-thumb {
+      background: #4A5568;
+      border-radius: 5px;
+    }
+    
+    ::-webkit-scrollbar-thumb:hover {
+      background: var(--theme-color);
     }
   </style>
 </head>
@@ -46,7 +171,7 @@
     window.$docsify = {
       name: 'Aethermoor RPG',
       logo: '',
-      repo: '', // Leave empty to hide GitHub corner
+      repo: '', 
       loadSidebar: true,
       loadNavbar: true,
       coverpage: true,
@@ -67,14 +192,23 @@
       themeable: {
         readyTransition: true,
         responsiveTables: true
+      },
+      // Dark mode specific
+      darkMode: {
+        dark: {
+          background: '#1a1a1a',
+          toggleBtnBg: '#B87333',
+          textColor: '#e0e0e0'
+        }
       }
     }
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
-  <!-- Search plugin -->
+  <!-- Plugins -->
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
-  <!-- Copy code plugin -->
   <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
+  <!-- Dark theme plugin -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js"></script>
 </body>
 </html>
