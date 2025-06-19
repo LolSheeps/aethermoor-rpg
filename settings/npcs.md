@@ -1,8 +1,3 @@
----
-layout: default
-title: Notable NPCs
----
-
 # Notable NPCs of Aethermoor
 
 The people who shape the continent's destiny—heroes, villains, and those who defy easy categorization.
