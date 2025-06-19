@@ -192,4 +192,69 @@ Every breath has a price. You're the collector.
 **Journeyman Feat:** Life loans—grant temporary HP, collect with interest.  
 **Master Feat:** Hostile takeover—steal enemy's entire life force temporarily.
 
-### Soul Market (Path
+### Soul Market (Path of the Soul Broker)
+Death creates opportunities for those who know the exchange rates.
+
+**Effect:** When you or allies kill enemies, collect soul fragments:
+- Minions: 1 fragment
+- Elites: 3 fragments
+- Bosses: 5 fragments
+Spend fragments for immediate effects:
+- 1 fragment: +1 to any roll
+- 3 fragments: Reroll any die
+- 5 fragments: Automatic critical hit
+
+**Apprentice Feat:** Fragments don't expire between battles.  
+**Journeyman Feat:** Trade fragments for permanent benefits.  
+**Master Feat:** Insider trading—know soul values before death.
+
+### Mortality Investment (Path of the Soul Broker)
+Life and death are just another futures market.
+
+**Effect:** "Invest" in creature's mortality:
+- Delay death: Target at 0 HP stays up (save ends)
+- Accelerate death: Ongoing damage can't be healed
+- Death insurance: If target dies, gain massive benefits
+- Mortality futures: Predict and profit from deaths
+
+**Apprentice Feat:** Multiple simultaneous investments.  
+**Journeyman Feat:** Guaranteed returns—investments always profit.  
+**Master Feat:** Market manipulation—change fate itself.
+
+### Corpse Explosion (Any Path)
+The dead make excellent bombs.
+
+**Effect:** Detonate corpse or undead:
+- 3d6 damage to all nearby (champion: 5d6, epic: 7d6)
+- Damage type matches corpse type
+- Can chain explosions with multiple corpses
+
+**Apprentice Feat:** Remote detonation at any range.  
+**Journeyman Feat:** Shaped charges—protect allies from blast.  
+**Master Feat:** Soul shrapnel—explosion causes fear and conditions.
+
+### Deathsight (Any Path)
+You see through death's eyes.
+
+**Effect:**
+- See through undead senses
+- Detect dying creatures through walls
+- Know how every visible creature will likely die
+- Perceive ghosts and spirits
+
+**Apprentice Feat:** See last moments of any corpse touched.  
+**Journeyman Feat:** True deathsight—see everything dead or dying in mile.  
+**Master Feat:** Edit death—change what you see in visions.
+
+### Necrotic Shield (Any Path)
+Death itself protects you.
+
+**Effect:** Shroud yourself in necrotic energy:
+- +2 to all defenses
+- Melee attackers take necrotic damage
+- Heal from necrotic damage
+- Look incredibly ominous
+
+**Apprentice Feat:** Shield spreads to nearby undead.  
+**Journeyman Feat:** Absorb death effects targeting you.  
+**Master Feat:** Death ward—first killing blow each day fails.
