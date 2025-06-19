@@ -1,8 +1,3 @@
----
-layout: default
-title: Wayfinder - Frontier Scout
----
-
 # Wayfinder
 
 *The industrial age pushes ever outward, but someone must scout the path. Wayfinders bridge the gap between civilization and wilderness, equally at home in both yet belonging fully to neither. They are guides, hunters, scouts, and survivors—the ones who ensure expeditions return and settlements survive their first winter.*
