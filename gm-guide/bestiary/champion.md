@@ -1,8 +1,3 @@
----
-layout: default
-title: Bestiary - Champion Tier (Levels 5-7)
----
-
 # Bestiary: Champion Tier
 
 *As heroes rise in power, so too do their challenges. The champion tier brings industrial horrors of greater magnitude—from clockwork knights that guard corporate vaults to elemental manifestations of pure Aether. These creatures represent the true dangers of Aethermoor's new age.*
