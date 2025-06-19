@@ -1,5 +1,3 @@
-![logo](assets/images/aethermoor-logo.png)
-
 # Aethermoor RPG
 
 > Where magic meets the industrial revolution
