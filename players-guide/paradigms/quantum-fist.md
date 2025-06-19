@@ -1,8 +1,3 @@
----
-layout: default
-title: Quantum Fist - Paradigm of Chaos and Energy
----
-
 # Quantum Fist
 
 *"I punch through possibilities until I find the one where you lose"*
