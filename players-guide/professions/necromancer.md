@@ -1,8 +1,3 @@
----
-layout: default
-title: Necromancer - Death Mage
----
-
 # Necromancer
 
 *Death is merely another resource in the industrial age. As cities grow and graveyards overflow, as industrial accidents claim lives daily, the Necromancers see opportunity where others see tragedy. These pragmatic death-mages treat corpses like raw materials and souls like steam—power sources to be harnessed. Whether conducting experiments in morgue-laboratories or raising work crews that need no sleep or pay, Necromancers represent the ultimate efficiency: why waste the dead when they can still serve?*
