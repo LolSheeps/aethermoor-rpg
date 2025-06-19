@@ -1,8 +1,3 @@
----
-layout: default
-title: Combat Rules
----
-
 # Combat Rules
 
 Combat in Aethermoor is fast, cinematic, and deadly. Whether you're fighting in a factory, defending a frontier town, or clashing with Fey in ancient forests, these rules keep the action moving.
