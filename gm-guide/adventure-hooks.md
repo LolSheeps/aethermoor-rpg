@@ -1,8 +1,3 @@
----
-layout: default
-title: Adventure Hooks - Story Seeds for the Industrial Age
----
-
 # Adventure Hooks for Aethermoor
 
 *Every belch of smoke from a factory chimney carries a story. Every Aether crystal pulled from the earth whispers of danger. Every faction scheme births a dozen adventures. Here are hooks to launch your players into the industrial intrigue of Aethermoor.*
