@@ -1,8 +1,3 @@
----
-layout: default
-title: Bestiary - Adventurer Tier (Levels 1-4)
----
-
 # Bestiary: Adventurer Tier
 
 *The industrial age has created new horrors and transformed old ones. From soot-stained goblins in the factory vents to mechanical monstrosities powered by stolen souls, these creatures represent the first challenges adventurers face in Aethermoor.*
