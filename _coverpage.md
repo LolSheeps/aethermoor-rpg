@@ -10,5 +10,5 @@
 [Get Started](home.md)
 [Quick Rules](rules/basic-rules.md)
 
-<!-- background color -->
-![color](#1a1a1a)
+<!-- dark background -->
+![color](#0f0f0f)
