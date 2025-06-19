@@ -1,8 +1,3 @@
----
-layout: default
-title: Running Aethermoor - A GM's Guide
----
-
 # Running Aethermoor
 
 *Welcome to the conductor's seat of the great industrial engine that is Aethermoor. As GM, you're not just running a game—you're managing the collision between progress and tradition, civilization and wilderness, order and chaos. This guide will help you bring the unique flavor of industrial fantasy to your table.*
