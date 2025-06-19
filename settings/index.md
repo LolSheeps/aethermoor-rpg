@@ -1,8 +1,3 @@
----
-layout: default
-title: Setting Guide
----
-
 # The World of Aethermoor
 
 Welcome to the contested continent where industrial ambition meets ancient magic, where six great factions vie for control of crystallized possibility itself.
