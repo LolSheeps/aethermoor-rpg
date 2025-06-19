@@ -1,8 +1,3 @@
----
-layout: default
-title: Luminary - Celebrity Performer
----
-
 # Luminary
 
 *In an age of newspapers, photographs, and traveling shows, fame has become a tangible force. Luminaries don't just perform—they channel the collective attention of their audience into real power. They are the rock stars of the industrial age, turning popularity into magic and applause into armor.*
