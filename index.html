@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Aethermoor: Industrial Fantasy RPG</title>
+  <meta name="description" content="Where magic meets the industrial revolution">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <style>
+    /* Custom colors for your theme */
+    :root {
+      --theme-color: #B87333; /* Copper color */
+      --text-color: #2c3e50;
+      --sidebar-nav-link-before-content: '⚙️';
+    }
+    
+    /* Make it look more RPG-like */
+    .sidebar {
+      background-color: #f5f5f5;
+    }
+    
+    .markdown-section h1 {
+      color: #B87333;
+      border-bottom: 2px solid #B87333;
+      padding-bottom: 0.3em;
+    }
+    
+    .markdown-section h2 {
+      color: #4A5568;
+    }
+    
+    /* Style tables nicely */
+    .markdown-section table {
+      display: table;
+      width: 100%;
+    }
+    
+    .markdown-section table tr:nth-child(even) {
+      background-color: #f5f5f5;
+    }
+  </style>
+</head>
+<body>
+  <div id="app">Loading Aethermoor...</div>
+  <script>
+    window.$docsify = {
+      name: 'Aethermoor RPG',
+      logo: '',
+      repo: '', // Leave empty to hide GitHub corner
+      loadSidebar: true,
+      loadNavbar: true,
+      coverpage: true,
+      onlyCover: false,
+      maxLevel: 3,
+      subMaxLevel: 2,
+      search: {
+        maxAge: 86400000,
+        paths: 'auto',
+        placeholder: 'Search rules, professions, locations...',
+        noData: 'No Results Found',
+        depth: 3
+      },
+      alias: {
+        '/.*/_sidebar.md': '/_sidebar.md',
+        '/': '/home.md'
+      },
+      themeable: {
+        readyTransition: true,
+        responsiveTables: true
+      }
+    }
+  </script>
+  <!-- Docsify v4 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <!-- Search plugin -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <!-- Copy code plugin -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
+</body>
+</html>
