@@ -1,8 +1,3 @@
----
-layout: default
-title: Aetherfist - Magical Monk
----
-
 # Aetherfist
 
 *Where others channel Aether through machines or spells, the Aetherfist becomes a living conduit. Through meditation, training, and dangerous experimentation, they've learned to circulate raw magical energy through their bodies like blood. Every punch cracks reality. Every kick bends space. Every breath draws power from the industrial world's most precious resource.*
