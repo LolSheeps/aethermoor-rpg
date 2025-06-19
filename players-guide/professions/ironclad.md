@@ -1,8 +1,3 @@
----
-layout: default
-title: Ironclad - Steam-Powered Tank
----
-
 # Ironclad
 
 *The grinding of gears drowns out their screams. The hiss of steam marks their terror. When an Ironclad takes the field, armies learn what it means to face the future of warfare. These walking fortresses combine the best of magical enhancement and industrial engineering, turning soldiers into unstoppable engines of destruction.*
