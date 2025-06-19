@@ -1,8 +1,3 @@
----
-layout: default
-title: Savage - Primal Berserker
----
-
 # Savage
 
 *Civilization is a cage. Industry is poison. The Savage rejects both, embracing the primal truth that strength and fury solve more problems than steam engines and bureaucracy ever could. They are the howling reminder that beneath all our pretensions, we remain animals—and animals bite.*
