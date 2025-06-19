@@ -1,8 +1,3 @@
----
-layout: default
-title: Entropist - Chaos Mage
----
-
 # Entropist
 
 *In a world racing toward industrial order, Entropists embrace the fundamental chaos that lurks beneath reality's thin veneer. They understand that rules are suggestions, physics is negotiable, and probability is just another system to hack. Every spell they cast is a roll of cosmic dice, every battle a dance with disaster.*
