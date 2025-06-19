@@ -1,8 +1,3 @@
----
-layout: default
-title: Occultist - Practitioner of Forbidden Arts
----
-
 # Occultist
 
 *Progress demands sacrifice. The industrial age grinds forward, powered by Aether and ambition, but some truths are older than steam engines and darker than coal smoke. Occultists walk the shadowed paths between worlds, trafficking with entities that predate civilization and will outlast it. They know that every invention has a price, every discovery a danger, and that some doors, once opened, can never be closed.*
