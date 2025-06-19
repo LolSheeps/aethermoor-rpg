@@ -1,8 +1,3 @@
----
-layout: default
-title: Crusader - Righteous Warrior
----
-
 # Crusader
 
 *In an age of moral complexity and industrial compromise, Crusaders stand as beacons of absolute conviction. They don't see shades of gray—only right and wrong, just and unjust, their cause and everything that stands against it. Armed with unwavering faith and righteous fury, they cut through moral ambiguity with the sharp edge of certainty.*
