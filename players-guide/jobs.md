@@ -1,8 +1,3 @@
----
-layout: default
-title: Jobs - Backgrounds for the Industrial Age
----
-
 # Jobs
 
 *Before you picked up a weapon or learned to channel Aether, you had a life. A trade. A way of making ends meet in this new industrial world. Your job shaped who you are, taught you skills, and gave you connections that still serve you well. In Aethermoor, what you did matters as much as what you do.*
