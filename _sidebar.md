@@ -11,9 +11,9 @@
   * [Combat](#/rules/combat)
   
 * **The World**
-  * [History of Aethermoor](#/setting/history)
+  * [History of Aethermoor](#/settings/history)
   * [The Six Factions](#/setting/factions)
-  * [Regions](#/setting/regions)
+  * [Regions](#/settings/regions)
   * [Notable NPCs](#/setting/npcs)
   
 * **Game Master**
