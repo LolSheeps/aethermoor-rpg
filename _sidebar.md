@@ -7,10 +7,10 @@
   * [Basic Rules](rules/basic-rules.md)
   * [Combat](rules/combat.md)
 * **The World**
-  * [History of Aethermoor](setting/history.md)
-  * [The Six Factions](setting/factions.md)
-  * [Regions](setting/regions.md)
-  * [Notable NPCs](setting/npcs.md)
+  * [History of Aethermoor](settings/history.md)
+  * [The Six Factions](settings/factions.md)
+  * [Regions](settings/regions.md)
+  * [Notable NPCs](settings/npcs.md)
   
 * **Game Master**
   * [GM Guide](gm-guide.md)
