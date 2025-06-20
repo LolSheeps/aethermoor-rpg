@@ -12,16 +12,16 @@ Four years ago, Captain Elara Ironside discovered this continent and the miracul
 - **Power** - Carve out your own domain
 - **Redemption** - Escape your past, prevent catastrophe
 
-### 🎲 [Start Playing](#/players-guide/character-creation)
+### 🎲 [Start Playing](players-guide/character-creation.md)
 Everything you need to create a character and begin
 
-### ⚙️ [Learn the Rules](#/rules/basic-rules)  
+### ⚙️ [Learn the Rules](rules/basic-rules.md)  
 Simple d20 system powered by the Archmage Engine
 
-### 🗺️ [Explore the World](#/settings/)
+### 🗺️ [Explore the World](settings)
 Discover the regions, factions, and secrets
 
-### 🎭 [Run the Game](#/gm-guide/)
+### 🎭 [Run the Game](gm-guide)
 Resources for Game Masters
 
 ## The Crisis
