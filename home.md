@@ -18,10 +18,10 @@ Everything you need to create a character and begin
 ### ⚙️ [Learn the Rules](rules/basic-rules.md)  
 Simple d20 system powered by the Archmage Engine
 
-### 🗺️ [Explore the World](settings)
+### 🗺️ [Explore the World](settings/index.md)
 Discover the regions, factions, and secrets
 
-### 🎭 [Run the Game](gm-guide)
+### 🎭 [Run the Game](gm-guide/index.md)
 Resources for Game Masters
 
 ## The Crisis
