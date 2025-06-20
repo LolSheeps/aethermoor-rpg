@@ -239,4 +239,4 @@ For petrification, death effects:
 
 ---
 
-[Next: Character Creation](../players-guide/character-creation.md) | [Back to Rules Index](index.md)
+[Next: Character Creation](rules/character-creation.md) | [Back to Rules Index](rules/index.md)
