@@ -4,16 +4,16 @@
 
 Welcome to Aethermoor—a contested continent where six great factions race to strip-mine crystallized magic while the native Fey fight desperately to save their home. You are colonists, revolutionaries, and fortune-seekers caught between progress and preservation.
 
-## 🎲 [Start Playing](#/players-guide/)
+## 🎲 [Start Playing](players-guide/index.md)
 Everything you need to create a character and begin your adventure
 
-## ⚙️ [Learn the Rules](#/rules/)  
+## ⚙️ [Learn the Rules](rules/index.md)  
 Simple d20 system powered by the Archmage Engine
 
-## 🗺️ [Explore the World](#/settings/)
+## 🗺️ [Explore the World](settings/index.md)
 Discover the regions, factions, and secrets of Aethermoor
 
-## 🎭 [Run the Game](#/gm-guide/)
+## 🎭 [Run the Game](gm-guide/index.md)
 Resources for Game Masters
 
 ---
@@ -36,10 +36,10 @@ Will you exploit the land for profit or fight to preserve it? There's no right a
 
 ## Quick Start
 
-1. **[Create a Character](#/players-guide/character-creation)** in minutes
-2. **[Choose Your Profession](#/players-guide/professions/)** from 15 unique options
-3. **[Pick Your Faction](#/setting/factions)** allegiances
-4. **[Start Your Adventure](#/gm-guide/adventures)** in the contested lands
+1. **[Create a Character](rules/character-creation.md)** in minutes
+2. **[Choose Your Profession](players-guide/professions/index.md)** from 15 unique options
+3. **[Pick Your Faction](settings/factions.md)** allegiances
+4. **[Start Your Adventure](gm-guide/adventure-hooks.md)** in the contested lands
 
 ---
 
