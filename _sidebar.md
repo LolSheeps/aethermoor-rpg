@@ -1,7 +1,7 @@
 * **Getting Started**
   * [Home](home.md)
 * **Player's Guide**
-  * [Character Creation](players-guide/character-creation.md)
+  * [Character Creation](rules/character-creation.md)
   * [Professions](players-guide/professions/index.md)
 * **Game Rules**
   * [Basic Rules](rules/basic-rules.md)
