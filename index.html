@@ -384,6 +384,8 @@
       onlyCover: false,
       maxLevel: 3,
       subMaxLevel: 2,
+      auto2top: true,
+      homepage: 'home.md',
       search: {
         maxAge: 86400000,
         paths: 'auto',
@@ -393,7 +395,7 @@
       },
       alias: {
         '/.*/_sidebar.md': '/_sidebar.md',
-        '/': '/home.md'
+        '/.*/_navbar.md': '/_navbar.md'
       },
       themeable: {
         readyTransition: true,
