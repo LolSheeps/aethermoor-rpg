@@ -1,5 +1,0 @@
-* [Players](players-guide.md)
-* [Rules](rules.md)
-* [Setting](settings.md)
-* [GM](gm-guide.md)
-* [Downloads](#/downloads)
