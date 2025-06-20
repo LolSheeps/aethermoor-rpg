@@ -15,25 +15,25 @@ Before diving into numbers, answer these questions:
 Your profession determines your abilities and role. Choose from:
 
 ### Combat Professions
-- **[Ironclad](professions/ironclad.md)** - Steam-powered tank
-- **[Vanguard](professions/vanguard.md)** - Melee damage dealer
-- **[Shadowjack](professions/shadowjack.md)** - Sneaky assassin
-- **[Savage](professions/savage.md)** - Primal berserker
-- **[Aetherfist](professions/aetherfist.md)** - Magical martial artist
+- **[Ironclad](players-guide/professions/ironclad.md)** - Steam-powered tank
+- **[Vanguard](players-guide/professions/vanguard.md)** - Melee damage dealer
+- **[Shadowjack](players-guide/professions/shadowjack.md)** - Sneaky assassin
+- **[Savage](players-guide/professions/savage.md)** - Primal berserker
+- **[Aetherfist](players-guide/professions/aetherfist.md)** - Magical martial artist
 
 ### Magical Professions
-- **[Elementalist](professions/elementalist.md)** - Master of the elements
-- **[Necromancer](professions/necromancer.md)** - Death mage
-- **[Entropist](professions/entropist.md)** - Chaos caster
-- **[Occultist](professions/occultist.md)** - Forbidden knowledge
+- **[Elementalist](players-guide/professions/elementalist.md)** - Master of the elements
+- **[Necromancer](players-guide/professions/necromancer.md)** - Death mage
+- **[Entropist](players-guide/professions/entropist.md)** - Chaos caster
+- **[Occultist](players-guide/professions/occultist.md)** - Forbidden knowledge
 
 ### Support Professions
-- **[Artificer](professions/artificer.md)** - Magical inventor
-- **[Factotum](professions/factotum.md)** - Faction devotee
-- **[Luminary](professions/luminary.md)** - Celebrity performer
-- **[Marshal](professions/marshal.md)** - Battlefield commander
-- **[Crusader](professions/crusader.md)** - Righteous warrior
-- **[Wayfinder](professions/wayfinder.md)** - Nature guide
+- **[Artificer](players-guide/professions/artificer.md)** - Magical inventor
+- **[Factotum](players-guide/professions/factotum.md)** - Faction devotee
+- **[Luminary](players-guide/professions/luminary.md)** - Celebrity performer
+- **[Marshal](players-guide/professions/marshal.md)** - Battlefield commander
+- **[Crusader](players-guide/professions/crusader.md)** - Righteous warrior
+- **[Wayfinder](players-guide/professions/wayfinder.md)** - Nature guide
 
 Each profession grants:
 - **Ability Score Bonus:** +2 to one ability
@@ -159,7 +159,7 @@ Your background before coming to Aethermoor. Each grants +2 to two skills:
 4. **Scholar** (+2 Academics, +2 Investigation)
 5. **Criminal** (+2 Stealth, +2 Legerdemain)
 
-[See all 30 Jobs](jobs.md)
+[See all 30 Jobs](players-guide/jobs.md)
 
 ## Step 9: Faction Relationships
 
@@ -175,6 +175,8 @@ The Factions:
 - **Mercantile Syndicate** (Ambiguous) - Profit above all
 - **Iron Dominion** (Villainous) - Might makes right
 - **Crimson Circle** (Villainous) - Death and secrets
+
+  [Full Faction List](players-guide/factions.md)
 
 ## Step 10: Choose Feats
 
@@ -201,7 +203,7 @@ Starting gold by profession (usually 25-100gp)
 - Armor: 10-200gp
 - Shield: +15gp
 
-[Full Equipment List](equipment.md)
+[Full Equipment List](players-guide/equipment.md)
 
 ## Step 12: Final Details
 
@@ -235,4 +237,4 @@ One special fact about your character that makes them unique in the world. Examp
 
 ---
 
-[Next: Choose Your Profession](professions/index.md) | [Back to Player's Guide](index.md)
+[Next: Choose Your Profession](professions/index.md) | [Back to Player's Guide](players-guide/index.md)
