@@ -10,7 +10,7 @@ Everything you need to create a character and begin your adventure
 ## ⚙️ [Learn the Rules](#/rules/)  
 Simple d20 system powered by the Archmage Engine
 
-## 🗺️ [Explore the World](#/setting/)
+## 🗺️ [Explore the World](#/settings/)
 Discover the regions, factions, and secrets of Aethermoor
 
 ## 🎭 [Run the Game](#/gm-guide/)
