@@ -185,16 +185,16 @@ Fire up the engines. Raise the pressure. Full steam ahead into adventure.
 ## Quick Links
 
 ### Running the Game
-- [Running Aethermoor](running-aethermoor.html) - Core GM advice
-- [Factions in Play](factions-gm-guide.html) - Political storytelling
+- [Running Aethermoor](running-aethermoor) - Core GM advice
+- [Factions in Play](factions-gm-guide) - Political storytelling
 
 ### Adventures
-- [Adventure Hooks](adventure-hooks.html) - Quick scenarios
-- [Campaign Ideas](campaign-ideas.html) - Full campaign arcs
+- [Adventure Hooks](adventure-hooks) - Quick scenarios
+- [Campaign Ideas](campaign-ideas) - Full campaign arcs
 
 ### Resources  
 - [Bestiary](bestiary/) - Creatures and monsters
-- [Magic Items](magic-items.html) - Treasures and equipment
+- [Magic Items](magic-items) - Treasures and equipment
 
 ---
 
