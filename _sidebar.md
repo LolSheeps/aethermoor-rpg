@@ -13,8 +13,8 @@
   * [Notable NPCs](settings/npcs.md)
   
 * **Game Master**
-  * [GM Guide](gm-guide.md)
-  * [Adventures](gm-guide/adventures.md)
+  * [GM Guide](gm-guide/index.md)
+  * [Adventures](gm-guide/adventure-hooks.md)
   
 * **Resources**
   * [Downloads](downloads.md)
