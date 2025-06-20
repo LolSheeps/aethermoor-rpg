@@ -12,7 +12,7 @@ Four years ago, Captain Elara Ironside discovered this continent and the miracul
 - **Power** - Carve out your own domain
 - **Redemption** - Escape your past, prevent catastrophe
 
-### 🎲 [Start Playing](players-guide/character-creation.md)
+### 🎲 [Start Playing](rules/character-creation.md)
 Everything you need to create a character and begin
 
 ### ⚙️ [Learn the Rules](rules/basic-rules.md)  
