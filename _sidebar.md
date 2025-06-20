@@ -1,13 +1,24 @@
 * **Getting Started**
   * [Home](home.md)
+  * [Introduction](index.md)
+  
 * **Player's Guide**
-  * [Character Creation](Players-Guide/Character-Creation.md)
-  * [Professions](Players-Guide/Professions/index.md)
+  * [Character Creation](players-guide/character-creation.md)
+  * [Professions](players-guide/professions/index.md)
+  
 * **Game Rules**
-  * [Basic Rules](Rules/Basic-Rules.md)
-  * [Combat](Rules/Combat.md)
+  * [Basic Rules](rules/basic-rules.md)
+  * [Combat](rules/combat.md)
+  
 * **The World**
-  * [History of Aethermoor](Setting/History.md)
-  * [The Six Factions](Setting/Factions.md)
-  * [Regions](Setting/Regions.md)
-  * [Notable NPCs](Setting/NPCs.md)
+  * [History of Aethermoor](setting/history.md)
+  * [The Six Factions](setting/factions.md)
+  * [Regions](setting/regions.md)
+  * [Notable NPCs](setting/npcs.md)
+  
+* **Game Master**
+  * [GM Guide](gm-guide/index.md)
+  * [Adventures](gm-guide/adventures.md)
+  
+* **Resources**
+  * [Downloads](downloads.md)
