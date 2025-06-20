@@ -1,6 +1,6 @@
 * **Getting Started**
   * [Home](#/home)
-  * [Introduction](#/index)
+  * [Introduction](#/)
   
 * **Player's Guide**
   * [Character Creation](#/players-guide/character-creation)
@@ -17,7 +17,7 @@
   * [Notable NPCs](#/setting/npcs)
   
 * **Game Master**
-  * [GM Guide](#/gm-guide/index)
+  * [GM Guide](#/gm-guide/)
   * [Adventures](#/gm-guide/adventures)
   
 * **Resources**
